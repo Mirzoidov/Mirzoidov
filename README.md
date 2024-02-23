@@ -3,4 +3,4 @@
 <br />
 
 ### Languages and tools I work with:
-<code><img src="https://www.cleanpng.com/png-html-web-development-web-design-dynamic-web-page-h-3586758/" width="30px"></code>
+<code><img src="https://www.freeiconspng.com/img/12125" width="30px"></code>
