@@ -3,7 +3,7 @@
 <br />
 
 ### Languages and tools I work with:
-<code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="30px"></code>
+<code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" width="30px"></code>
 <code><img src="" width="30px"></code>
 <code><img src="" width="30px"></code>
 <code><img src="" width="30px"></code>
